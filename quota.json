@@ -1,0 +1,49 @@
+{
+ "schema": 1,
+ "generated_at": 1795263550,
+ "services": {
+  "claude": {
+   "status": "ok",
+   "fetched_at": 1795263550,
+   "windows": [
+    {
+     "id": "5h",
+     "label": "5時間",
+     "used_pct": 14.0,
+     "resets_at": 1795276200
+    },
+    {
+     "id": "7d",
+     "label": "週",
+     "used_pct": 2.0,
+     "resets_at": 1795845600
+    }
+   ]
+  },
+  "codex": {
+   "status": "ok",
+   "fetched_at": 1795263550,
+   "windows": [
+    {
+     "id": "primary",
+     "label": "週",
+     "used_pct": 29.0,
+     "resets_at": 1795344387,
+     "window_sec": 604800
+    }
+   ]
+  },
+  "muse": {
+   "status": "ok",
+   "fetched_at": 1795263550,
+   "windows": [
+    {
+     "id": "7d",
+     "label": "週",
+     "used_pct": 3.0,
+     "resets_at": 1795775640
+    }
+   ]
+  }
+ }
+}
